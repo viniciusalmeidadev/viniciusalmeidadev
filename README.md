@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div><p>ola</p></div>
+<div><p style="color: blue;">ola</p></div>
 
 <!--
 **viniciusalmeidadev/viniciusalmeidadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
